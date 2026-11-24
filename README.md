@@ -58,7 +58,7 @@ A university individual project exploring data processing with PySpark, RDD tran
 
 A university studio project centred on developing a Plants vs. Zombies-style game as part of the CSSE3200 coursework.
 
-<sub>Project repository link to be added.</sub>
+<a href="https://github.com/UQcsse3200/2025-studio-3"><strong>View project ↗</strong></a>
 
 </td>
 <td width="50%" valign="top">
