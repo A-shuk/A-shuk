@@ -36,7 +36,7 @@ Contributed to a platform designed to support differentiated learning, personali
 
 **Tech:** React, Django REST Framework, Python, PostgreSQL, LangChain
 
-<a href="https://github.com/KiddKailash/LearnABLE"><strong>View project ↗</strong></a> · <a href="https://learn-able.vercel.app/"><strong>Live site ↗</strong></a>
+<a href="https://github.com/KiddKailash/LearnABLE"><strong>View project ↗</strong></a> 
 
 </td>
 <td width="50%" valign="top">
